@@ -1,6 +1,6 @@
 # recipe
 
-レシピを閲覧できるプロジェクト
+レシピを閲覧できるアプリ
 
 ## Getting Started
 
