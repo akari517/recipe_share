@@ -1,6 +1,6 @@
 # recipe
 
-A new Flutter project.
+レシピを閲覧できるプロジェクト
 
 ## Getting Started
 
